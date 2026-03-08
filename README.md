@@ -5,7 +5,7 @@ A real-time dashboard for exploring San Diego business license trends, built for
 
 ## Team
 
-- **Team Name:** Alex
+- **Team Name:** o2mediaco
 - **Members:** Alex Ham (solo)
 
 ## Problem Statement
