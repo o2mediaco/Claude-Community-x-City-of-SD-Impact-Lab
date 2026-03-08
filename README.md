@@ -100,10 +100,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Live Application
 
-*Deployed URL here if applicable*
-
-## Demo
-
-*60-second demo video link here*
