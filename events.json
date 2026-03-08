@@ -1,0 +1,75 @@
+[
+  {
+    "id": "evt-gig-license-2025",
+    "date": "2025-10-16",
+    "title": "SD enforces gig worker business license",
+    "description": "Rideshare and taxi drivers now required to obtain city business tax certificates",
+    "categories": [
+      "TAXI & LIMOUSINE SERVICE",
+      "RIDESHARE (UBER, LYFT, ETC)"
+    ]
+  },
+  {
+    "id": "evt-min-wage-fee-2025",
+    "date": "2025-07-01",
+    "title": "SD Minimum Wage Enforcement Fee takes effect",
+    "description": "New $1.47/employee annual fee triggers wave of business registrations across construction, professional services",
+    "categories": [
+      "CONSTRUCTION",
+      "PROFESSIONAL, SCIENTIFIC & TECHNICAL SERVICES"
+    ]
+  },
+  {
+    "id": "evt-stro-enforcement-2023",
+    "date": "2023-05-01",
+    "title": "SD Short-Term Rental (STRO) enforcement begins",
+    "description": "City begins enforcing STRO license requirement, removing thousands of illegal Airbnb listings. STR registrations jump from ~2/month to 14-23/month",
+    "categories": [
+      "SHORT TERM RENTAL"
+    ]
+  },
+  {
+    "id": "evt-covid-reopen-2021",
+    "date": "2021-06-15",
+    "title": "California fully reopens post-COVID",
+    "description": "State lifts all COVID capacity and distancing restrictions, triggering accelerated business registrations across all sectors",
+    "categories": []
+  },
+  {
+    "id": "evt-great-resignation-2022",
+    "date": "2022-01-01",
+    "title": "Post-pandemic entrepreneurship boom hits SD",
+    "description": "Great Resignation and record stimulus savings drive new business applications nationally to 5M+. SD registrations jump 22% year-over-year",
+    "categories": [
+      "CONSULTING SERVICES",
+      "NONSTORE RETAILERS",
+      "JANITORIAL SERVICES"
+    ]
+  },
+  {
+    "id": "evt-ab5-enforcement-2020",
+    "date": "2020-01-01",
+    "title": "California AB5 gig worker law takes effect",
+    "description": "ABC test for independent contractor classification becomes law, affecting gig workers statewide",
+    "categories": [
+      "TAXI & LIMOUSINE SERVICE",
+      "RIDESHARE (UBER, LYFT, ETC)"
+    ]
+  },
+  {
+    "id": "evt-cannabis-licensing-2018",
+    "date": "2018-01-01",
+    "title": "California recreational cannabis sales begin",
+    "description": "Prop 64 takes effect. San Diego leads state with first recreational cannabis retail licenses issued Dec 2017",
+    "categories": []
+  },
+  {
+    "id": "evt-sidewalk-vending-2025",
+    "date": "2025-08-01",
+    "title": "SD ramps up sidewalk vendor permit enforcement",
+    "description": "City enforcement of sidewalk vending permits intensifies, registrations surge from ~6/month to 34/month by October",
+    "categories": [
+      "ROAMING & STATIONARY SIDEWALK VENDOR"
+    ]
+  }
+]
